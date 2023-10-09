@@ -1,0 +1,20 @@
+Os valores lidos sao iguais
+==========
+10 eh maior que 3
+10 nao eh multiplo de 3
+==========
+1 eh maior que 0
+1 nao eh multiplo de 0
+==========
+20 eh maior que 10
+20 eh multiplo de 10
+==========
+237 eh maior que 117
+237 nao eh multiplo de 117
+==========
+1000 eh maior que 100
+1000 eh multiplo de 100
+==========
+3 eh maior que 2
+3 nao eh multiplo de 2
+==========

@@ -1,0 +1,48 @@
+0 eh par
+A soma dos algarismos de 0 eh 0
+==========
+2 eh par
+A soma dos algarismos de 2 eh 2
+==========
+3 eh impar
+A soma dos algarismos de 3 eh 3
+==========
+10 eh par
+A soma dos algarismos de 10 eh 1
+==========
+11 eh impar
+A soma dos algarismos de 11 eh 2
+==========
+20 eh par
+A soma dos algarismos de 20 eh 2
+==========
+42 eh par
+A soma dos algarismos de 42 eh 6
+==========
+100 eh par
+A soma dos algarismos de 100 eh 1
+==========
+111 eh impar
+A soma dos algarismos de 111 eh 3
+==========
+123 eh impar
+A soma dos algarismos de 123 eh 6
+==========
+199 eh impar
+A soma dos algarismos de 199 eh 19
+==========
+999 eh impar
+A soma dos algarismos de 999 eh 27
+==========
+1000 eh par
+A soma dos algarismos de 1000 eh 1
+==========
+1010 eh par
+A soma dos algarismos de 1010 eh 2
+==========
+42424242 eh par
+A soma dos algarismos de 42424242 eh 24
+==========
+1000000000 eh par
+A soma dos algarismos de 1000000000 eh 1\n
+==========

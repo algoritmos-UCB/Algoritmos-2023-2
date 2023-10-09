@@ -1,0 +1,30 @@
+senha cadastrada: 1000
+senha valida!
+==========
+senha cadastrada: 1001
+senha invalida!
+senha invalida!
+senha valida!
+==========
+senha cadastrada: 1234
+senha invalida!
+senha invalida!
+senha valida!
+==========
+senha cadastrada: 2001
+senha invalida!
+senha valida!
+==========
+senha cadastrada: 2042
+senha invalida!
+senha invalida!
+senha valida!
+==========
+senha cadastrada: 5000
+senha invalida!
+senha valida!
+==========
+senha cadastrada: 9999
+senha invalida!
+senha valida!
+==========
