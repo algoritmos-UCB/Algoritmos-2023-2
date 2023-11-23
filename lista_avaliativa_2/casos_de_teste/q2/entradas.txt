@@ -1,0 +1,75 @@
+Flamengo
+Diego Alves;G;80
+Rafinha;L;85
+Rodrigo Caio;Z;83
+Pablo Marí;Z;84
+Filipe Luís;L;87
+William Arão;V;80
+Gerson;V;88
+De Arrascaeta;M;94
+Everton Ribeiro;M;90
+Bruno Henrique;A;91
+Gabigol;A;90
+River Plate
+Franco Armani;G;81
+Gonzalo Montiel;L;79
+Martínez Quarta;Z;80
+Pinola;Z;78
+Casco;L;81
+Enzo Pérez;V;82
+Palacios;V;83
+Nacho Fernández;M;88
+De la Cruz;M;89
+Borré;A;88
+Matías Suárez;A;87
+==========
+Argentina
+Emiliano Martínez;G;85
+Nahuel Molina;L;82
+Cristian Romero;Z;82
+Nicolás Otamendi;Z;79
+Nicolás Tagliafico;L;80
+Rodrigo De Paul;V;84
+Alexis Mac Allister;V;82
+Enzo Fernández;M;83
+Lionel Messi;M;99
+Julián Álvarez;A;80
+Ángel Di María;A;88
+França
+Hugo Lloris;G;79
+Jules Koundé;L;81
+Raphaël Varane;Z;85
+Dayot Upamecano;Z;82
+Theo Hernández;L;81
+Aurélien Tchouaméni;V;82
+Adrien Rabiot;V;81
+Antoine Griezmann;M;81
+Kylian Mbappé;M;92
+Ousmane Dembélé;A;84
+Olivier Giroud;A;82
+==========
+Santos
+Rafael Cabral;G;80
+Pará;L;72
+Edu Dracena;Z;75
+Durval;Z;80
+Léo;L;79
+Arouca;V;83
+Ibson;V;84
+Elano;M;85
+Ganso;M;90
+Neymar;A;91
+Borges;A;83
+Flamengo
+Felipe;G;80
+Léo Moura;L;82
+Welinton;Z;75
+Ronaldo Angelim;Z;83
+Junior Cesar;L;80
+Willians;V;81
+Luiz Antonio;V;84
+Renato;M;85
+Thiago Neves;M;87
+Ronaldinho Gaúcho;A;95
+Deivid;A;78
+==========
